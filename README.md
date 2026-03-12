@@ -1,14 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Muhammad+Tayyab;Full+Stack+Developer;AI+%26+Computer+Vision;Low-Level+Explorer;FAST+CS+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=550&lines=Muhammad+Tayyab;Full+Stack+Developer;AI+%26+Computer+Vision;Low-Level+Explorer;FAST+CS+Student&shadow=true&shadowColor=0044AA&shadowOffsetX=3&shadowOffsetY=3&shadowBlur=5&borderRadius=10" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tyab07&label=Neural%20Accesses&color=00ffaa&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tyab07&label=VIEWS&color=009002&style=for-the-badge&labelColor=0A0A0A&logo=analytics&logoColor=00FFFF" alt="Profile Views" />
   <a href="https://github.com/tyab07?tab=followers">
-    <img src="https://img.shields.io/github/followers/tyab07?label=Followers&style=plastic&color=00FFAA" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/tyab07?label=FOLLOWERS&style=for-the-badge&color=009002&labelColor=0A0A0A&logo=people&logoColor=00FFFF" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/tyab07">
-    <img src="https://img.shields.io/github/stars/tyab07?label=Stars&style=plastic&color=00FFAA" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/tyab07?label=STARS&style=for-the-badge&color=009002&labelColor=0A0A0A&logo=starship&logoColor=00FFFF" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/tyab07?tab=repositories">
+    <img src="https://img.shields.io/badge/CODE-ARCHIVE?style=for-the-badge&color=009002&labelColor=0A0A0A&logo=code&logoColor=00FFFF" alt="Code Archive" />
   </a>
 </p>
 
@@ -27,7 +30,7 @@
       <ul>
         <li>🔭 <b>Currently:</b> Engineering premium portfolios with <b>Next.js 15</b> and <b>Spline 3D</b>.</li>
         <li>🌱 <b>Learning:</b> Advanced <b>System Design</b> and <b>Distributed Computing</b>.</li>
-        <li>💬 <b>Ask me about:</b> React, Python, C++, or low-level <b>Assembly</b>.</li>
+        <li>💬 <b>Ask me about:</b> React, Python, C++, Rag systems ,or low-level <b>Assembly</b>.</li>
         <li>📫 <b>Neural Link:</b> <a href="https://www.linkedin.com/in/muhammad-tayyab-76b9923b1/">LinkedIn</a></li>
       </ul>
     </td>
