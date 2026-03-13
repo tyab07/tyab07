@@ -96,6 +96,11 @@
   </picture>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull_Shark-%F0%9F%A6%88-00AAFF?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Quickdraw-%F0%9F%A4%A0-00AAFF?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/YOLO-%F0%9F%9A%80-00AAFF?style=for-the-badge&logo=github&logoColor=white" alt="YOLO" />
+</p>
 
 <h2 align="center"><font color="#00AAFF">📊 Neural Diagnostics (Stats)</font></h2>
 
@@ -107,18 +112,14 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyab07&theme=nord&border_radius=10&hide_border=false" alt="Streak Stats" />
 </div>
-
-<h2 align="center"><font color="#00AAFF">🏆 Hall of Fame</font></h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tyab07&theme=nord&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
-
 <h2 align="center"><font color="#00AAFF">🗺️ Contribution Activity</font></h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyab07&theme=nord&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
+
+
+
 
 ---
 
