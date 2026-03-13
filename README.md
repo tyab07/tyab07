@@ -1,24 +1,28 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=550&lines=Muhammad+Tayyab;Full+Stack+Developer;AI+%26+Computer+Vision;Low-Level+Explorer;FAST+SE+Student&shadow=true&shadowColor=0044AA&shadowOffsetX=3&shadowOffsetY=3&shadowBlur=5&borderRadius=10" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=100&section=header" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=550&lines=Muhammad+Tayyab;Full+Stack+Developer;AI+%26+Computer+Vision;Low-Level+Explorer;FAST+SE+Student&shadow=true&shadowColor=0044AA&shadowOffsetX=3&shadowOffsetY=3&shadowBlur=5&borderRadius=10" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tyab07&label=VIEWS&color=009002&style=for-the-badge&labelColor=0A0A0A&logo=analytics&logoColor=00FFFF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tyab07&label=VIEWS&color=00AAFF&style=for-the-badge&labelColor=0A0A0A&logo=analytics&logoColor=00AAFF" alt="Profile Views" />
   <a href="https://github.com/tyab07?tab=followers">
-    <img src="https://img.shields.io/github/followers/tyab07?label=FOLLOWERS&style=for-the-badge&color=009002&labelColor=0A0A0A&logo=people&logoColor=00FFFF" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/tyab07?label=FOLLOWERS&style=for-the-badge&color=00AAFF&labelColor=0A0A0A&logo=people&logoColor=00AAFF" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/tyab07">
-    <img src="https://img.shields.io/github/stars/tyab07?label=STARS&style=for-the-badge&color=009002&labelColor=0A0A0A&logo=starship&logoColor=00FFFF" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/tyab07?label=STARS&style=for-the-badge&color=00AAFF&labelColor=0A0A0A&logo=starship&logoColor=00AAFF" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/tyab07?tab=repositories">
-    <img src="https://img.shields.io/badge/CODE-ARCHIVE?style=for-the-badge&color=009002&labelColor=0A0A0A&logo=code&logoColor=00FFFF" alt="Code Archive" />
+    <img src="https://img.shields.io/badge/CODE-ARCHIVE?style=for-the-badge&color=00AAFF&labelColor=0A0A0A&logo=code&logoColor=00AAFF" alt="Code Archive" />
   </a>
 </p>
 
 <!-- Hexagon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c-blue.gif" width="100%">
 
-## 🪐 About The User
+<h2 align="center"><font color="#00AAFF">🪐 About The User</font></h2>
 
 <table align="center">
   <tr>
@@ -37,7 +41,7 @@
   </tr>
 </table>
 
-## 🛡️ Technical Arsenal (Tech Stack)
+<h2 align="center"><font color="#00AAFF">🛡️ Technical Arsenal (Tech Stack)</font></h2>
 
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -82,34 +86,45 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-## 📊 Neural Diagnostics (Stats)
+<h2 align="center"><font color="#00AAFF">🐍 Contribution Snake</font></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tyab07&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="General Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyab07&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" alt="Top Languages" height="180px" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyab07/tyab07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyab07/tyab07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tyab07/tyab07/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<h2 align="center"><font color="#00AAFF">📊 Neural Diagnostics (Stats)</font></h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tyab07&show_icons=true&theme=nord&border_radius=10&hide_border=false" alt="General Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyab07&layout=compact&theme=nord&border_radius=10&hide_border=false" alt="Top Languages" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyab07&theme=tokyonight&border_radius=10&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyab07&theme=nord&border_radius=10&hide_border=false" alt="Streak Stats" />
 </div>
 
-## 🏆 Hall of Fame
+<h2 align="center"><font color="#00AAFF">🏆 Hall of Fame</font></h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tyab07&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tyab07&theme=nord&no-frame=true&margin-w=15" alt="Trophies" />
 </div>
 
-## 🗺️ Contribution Activity
+<h2 align="center"><font color="#00AAFF">🗺️ Contribution Activity</font></h2>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=tyab07&theme=react-dark&bg_color=0d1117&color=00ffaa&line=00ffaa&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tyab07&theme=nord&bg_color=0d1117&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Daily Quote" />
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=100&section=footer" width="100%" />
+</div>
