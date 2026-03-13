@@ -96,6 +96,7 @@
   </picture>
 </div>
 
+
 <h2 align="center"><font color="#00AAFF">📊 Neural Diagnostics (Stats)</font></h2>
 
 <div align="center">
