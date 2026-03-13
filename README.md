@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=100&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=200&section=header&text=Muhammad%20Tayyab&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
