@@ -107,11 +107,22 @@
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tyab07&theme=nord&border_radius=10&hide_border=false&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com/?user=tyab07&theme=nord&border_radius=10" height="180em"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tyab07&theme=nord&no-frame=false&no-bg=false&margin-w=10"/>
+
+</div>
+
 
 ---
 
