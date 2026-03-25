@@ -7,6 +7,7 @@
 </div>
 
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=tyab07&label=VIEWS&color=00AAFF&style=for-the-badge&labelColor=0A0A0A&logo=analytics&logoColor=00AAFF" />
   <a href="https://github.com/tyab07?tab=followers">
     <img src="https://img.shields.io/github/followers/tyab07?label=FOLLOWERS&style=for-the-badge&color=00AAFF&labelColor=0A0A0A&logo=people&logoColor=00AAFF" />
