@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00AAFF&height=200&section=header&text=Muhammad%20Tayyab&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=00AAFF&center=true&vCenter=true&width=550&lines=Muhammad+Tayyab;Full+Stack+Developer;AI+%26+Computer+Vision;Low-Level+Explorer;FAST+SE+Student&shadow=true&shadowColor=0044AA&shadowOffsetX=3&shadowOffsetY=3&shadowBlur=5&borderRadius=10" alt="Typing SVG" />
 </div>
