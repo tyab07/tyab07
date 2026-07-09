@@ -31,11 +31,11 @@
 
 <td width="60%">
 
-**Muhammad Tayyab** is a Computer Science student at **FAST NUCES**, specializing in building high-performance applications that bridge **High-Level Web Frameworks** and **Low-Level Systems**.
+**Muhammad Tayyab** is a Software Engineering student at **FAST NUCES**, specializing in building high-performance applications that bridge **High-Level Web Frameworks** and **Low-Level Systems**.
 
 - 🔭 Currently building **Next.js 15 + Spline 3D portfolios**
 - 🌱 Learning **Advanced System Design & Distributed Systems**
-- 💬 Ask me about **React, Python, C++, RAG Systems, Assembly**
+- 💬 Ask me about **React, Python, C++,.Net, RAG Systems, Assembly**
 - 📫 Connect:  
   **LinkedIn:**  
   https://www.linkedin.com/in/muhammad-tayyab-76b9923b1/
@@ -97,15 +97,6 @@
 </div>
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tyab07&show_icons=true&theme=nord&border_radius=10&hide_border=false&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyab07&layout=compact&theme=nord&border_radius=10&hide_border=false&cache_seconds=1800"/>
-
-</div>
 
 <br>
 
